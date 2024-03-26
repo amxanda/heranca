@@ -1,5 +1,5 @@
 # Herança
-- Atividade herança
+- Atividade sobre herança
 
 IDE e Linguagem utilizada: 
 <p align="">
